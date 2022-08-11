@@ -1,3 +1,3 @@
 import os, platform, time
 
-import main ()
+import Main()
